@@ -1,0 +1,4 @@
+.DS_Store
+
+# Ignore all EmoBank_Dataset files
+/EmoBank_Dataset/**

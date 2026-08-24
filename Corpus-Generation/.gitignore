@@ -1,0 +1,8 @@
+# Ignore all files anywhere in this folder (including subfolders) except the scripts below.
+**/*
+!*/
+!**/accuracy_anger.py
+!**/inference.py
+!**/prompts.py
+!README.md
+!.gitignore
